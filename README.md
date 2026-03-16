@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello there!👋
+
+## I'm Javier, a computer science student from New York. 
+
+I enjoy video games, drawing, and learning how to code. 
+
+I have almost graduated from college, and am currently searching for a job where I can expand my skills further and make a positive impact on the world. 
 
 <!--
 **JavierCrespoLaw/JavierCrespoLaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
