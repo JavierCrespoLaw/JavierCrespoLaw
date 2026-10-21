@@ -1,6 +1,6 @@
 ## Hello there!👋
 
-## I'm Javier, a computer science student from New York. 
+## I'm Javier, a computer science graduate from New York. 
 
 I enjoy video games, drawing, and learning how to code. 
 
